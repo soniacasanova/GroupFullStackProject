@@ -1,0 +1,25 @@
+.schedule-page {
+    overflow: hidden;
+}
+.nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px 40px 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.login-nav {
+    text-align: right;
+}
+.program {
+    padding: 40px;
+}
+@media (max-width: 450px) {
+    .nav {
+        height: 135px;
+        display: block;
+    }
+    .program {
+        padding: 25px 20px;
+    }
+}

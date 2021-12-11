@@ -1,0 +1,346 @@
+[{
+  "_id": {
+    "$oid": "61438221e293c20b36fe1fe2"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-14T09:30:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c0443c9"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61438329e293c20b36fe20b3"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-15T12:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043ce4"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6143833ce293c20b36fe20e0"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-16T09:45:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d25"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6143834ce293c20b36fe211d"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-17T15:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d7d"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61438355e293c20b36fe2150"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-13T12:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c04409c"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61438bc9e293c20b36fe2325"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-14T12:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043cdb"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b31909ccee00f4957935"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-06T10:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c04460b"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b31f09ccee00f4957954"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-06T10:45:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043cee"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b32609ccee00f4957973"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-07T09:45:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d02"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b32c09ccee00f4957994"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-08T09:30:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d7a"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b33009ccee00f49579b7"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-08T12:45:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d24"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b33909ccee00f49579da"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-09T10:15:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c044498"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b33d09ccee00f49579ff"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-09T11:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d40"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b34309ccee00f4957a24"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-10T14:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043f99"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b37809ccee00f4957ace"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-13T13:15:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d18"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b38309ccee00f4957aff"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-20T10:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d5e"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b38809ccee00f4957b1e"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-20T10:45:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d20"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b38c09ccee00f4957b3d"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-21T09:45:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c044634"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b38f09ccee00f4957b5e"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-22T13:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d23"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b39709ccee00f4957ba6"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-23T09:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d5c"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b39e09ccee00f4957bcb"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-24T13:30:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d5d"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b3ca09ccee00f4957c9c"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-23T11:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d5a"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144b5f909ccee00f4957e3a"
+  },
+  "valued": "Pendent",
+  "visit_date": {
+    "$date": "2021-09-16T11:00:00Z"
+  },
+  "proceeding_ObjectId": {
+    "$oid": "6139e487e46b631a4c043d1f"
+  },
+  "valuer_ObjectId": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "__v": 0
+}]

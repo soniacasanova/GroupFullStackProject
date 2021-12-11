@@ -1,0 +1,65 @@
+table {  
+  margin: 10px 0 15px;
+  font-size: 0.7em;
+  font-family: 'poppins', sans-serif;
+}
+table.days-of-week {
+  box-shadow: rgb(50 50 105 / 15%) 0px 2px 5px 0px, rgb(0 0 0 / 5%) 0px 1px 1px 0px;
+  padding: 5px 15px;
+  max-width: 300px;  
+  margin: 5px;
+}
+thead tr {
+  text-align: center;
+}
+th, td {
+  padding: 4px 4px;
+}
+th.day {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 142.78%;
+  color: #004960;
+  border-bottom: 2px solid #EB5B57;
+  padding: 8px 0px;
+}
+input[type="time"] {
+  border: 1px solid #B0BAC9;
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 5px;
+  color: #353535;
+  font-family: 'Poppins';
+  margin: 0 4px;
+}
+input[type="button"] {
+  color: white;
+  background-color: #EB5B57;
+  border: none;
+  border-radius: 3px;
+}
+tbody.text-box-day {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #353535;
+  line-height: 2.2em;
+}
+.trash {
+  border: none;
+  background-color: inherit;
+}
+
+@media (max-width: 1100px) and (min-width: 300px){
+  .week-container{
+    display: block !important;
+}
+table.days-of-week {
+  text-align: center;
+  width: 100%;
+  max-width: 100%;
+}
+}

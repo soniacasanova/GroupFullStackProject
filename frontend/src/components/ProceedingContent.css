@@ -1,0 +1,38 @@
+.wrapper-box {
+  position: relative;
+}
+.actions-box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.content-box {  
+  position: relative;
+  z-index: 1;
+}
+.button-box {
+  display: inline-block;
+  padding: .5rem 0 .5rem 0;
+}
+.btn-list.no-clicked {
+  padding: 10px 18px;
+  background: url(/src/img/list-click.svg) no-repeat scroll 7px;
+  background-color: white;
+}
+.btn-list.clicked {
+  padding: 10px 18px;
+  background: url(/src/img/list.svg) no-repeat scroll 7px;
+  background-color: #EB5B57;
+}
+
+.btn-map.no-clicked {
+  padding: 10px 18px;
+  background: url(/src/img/location.svg) no-repeat scroll 7px;
+  background-color: white;
+}
+.btn-map.clicked {
+  padding: 10px 18px;
+  background: url(/src/img/location-click.svg) no-repeat scroll 7px;
+  background-color: #EB5B57;
+
+}

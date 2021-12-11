@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "612e3a7b7a0ccb12ff958551"
+  },
+  "postcodes": [
+    "08019",
+    "08020"
+  ],
+  "valuer_id": "12345678Z",
+  "password": "$2a$10$.jx8QaO9A50dCmmwmIlCB.If95OHEs2.Eryd.10JIFprAzd2pJoTK",
+  "name": {
+    "first": "LAURA",
+    "last": "BOSCH GONZALEZ"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612e3a887a0ccb12ff958554"
+  },
+  "postcodes": [
+    "08031",
+    "08032"
+  ],
+  "valuer_id": "87654321X",
+  "password": "$2a$10$sqex2etzw7.P.o4M/CEWQ.oPM6ud3B8tqyu5TOqpMx1NFWDsznpSW",
+  "name": {
+    "first": "SARA",
+    "last": "FIGULS PLANELLS"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612e3a957a0ccb12ff958557"
+  },
+  "postcodes": [
+    "08005",
+    "08018"
+  ],
+  "valuer_id": "10101010P",
+  "password": "$2a$10$0ZSpyt6O3zHF50hTgQ2hteqMp9DME8U8giruoyNfQ9Uat0EIHK.US",
+  "name": {
+    "first": "SERGI",
+    "last": "PUIG AYATS"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612e3aa27a0ccb12ff95855a"
+  },
+  "postcodes": [
+    "08020"
+  ],
+  "valuer_id": "99999999R",
+  "password": "$2a$10$aNRqCOUrkT8NQFZ.bHofrOsi3uI6uZkx0yMt04WsMU5tdU2QV2yk2",
+  "name": {
+    "first": "NATALIA",
+    "last": "VEGA ZAHER"
+  },
+  "__v": 0
+}]

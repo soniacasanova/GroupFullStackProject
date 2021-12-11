@@ -1,0 +1,53 @@
+img.img-profile {
+    border-radius: 100px;
+    width: 76px;
+    object-fit: cover;
+}
+.valuer-info-header {
+    display: grid;
+    grid-template-columns: 8fr 1fr;
+    grid-gap: 12px;
+}
+.user-nav {
+    font-weight: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.zone-nav {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+}
+
+.logout {
+  background: #eb5b57;
+  border-radius: 3px;
+  color: white;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 12px;
+  border: none;
+  padding: 6px 10px;
+  text-transform: capitalize;
+}
+button#btn-exit {
+  background: url(/src/img/exit.svg) no-repeat scroll 7px;
+  padding: 9px 17px;
+  border: none;
+  vertical-align: middle;
+}
+
+@media (max-width: 450px) {
+    .valuer-info-header {
+        margin-top: 5px;
+        display: flex;
+        grid-gap: 17px;
+        justify-content: center;
+    }
+    .user-nav {
+        font-size: 16px;
+    }
+}

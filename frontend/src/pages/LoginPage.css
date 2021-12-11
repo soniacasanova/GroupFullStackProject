@@ -1,0 +1,141 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+h2 {
+  font-weight: 500;
+  font-size: 24px;
+}
+/* NAV */
+.nav-f {
+  padding: 20px 40px 10px;
+  box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+}
+/* FORM */
+.form-display {
+  display: block;
+}
+.login-page {
+  position: absolute;
+  max-width: 770px;
+  max-height: 100%;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 4px 3px rgb(0 0 0 / 5%);
+  border-radius: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    padding: 2rem;
+}
+div#form-login {
+  padding: 30px;
+  max-width: 300px;
+  width: 300px;
+}
+input.form-input {
+  color: rgba(53, 53, 53, 0.7);
+  margin-bottom: 18px;
+  font-size: 16px;
+  line-height: 104%;
+  width: 100%;
+  padding: 15px;
+  background: #FFFFFF;
+  border: 1px solid #ECECEC;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: inherit;
+} 
+
+  #key{
+  background: url(/src/img/contra.svg) no-repeat scroll 7px;
+  padding-left:40px;
+  }
+  #user{
+    background: url(/src/img/user.svg) no-repeat scroll 7px;
+    padding-left:40px;
+    }
+
+label.form-label {
+  font-weight: 300;
+}
+
+.login-page {
+  padding: 2rem;
+}
+.messsage {
+  border: 1px solid black;
+  padding: 1rem 1.5rem;
+}
+.message.none {
+  display: none;
+}
+.message.error {
+  background-color: red;
+  color: white;
+}
+.message.success {
+  background-color: green;
+  color: white;
+}
+/* BTN */
+.btn {
+  text-align:right;
+}
+input.submit-btn {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  background: radial-gradient(276.04% 1435.42% at 82.69% 217.71%, #EB5B57 0%, #FA6B74 100%);
+  border-radius: 4px;
+  border-color: #EB5B57;
+  padding: 8px 30px;
+}
+.message.error {
+  background-color: white;
+  color: red;
+}
+/* IMAGE */
+div#image-form {
+  padding: 30px;
+}
+.myImage {
+  width: 350px;
+  height: 350px;
+  max-width: 400px;
+  max-height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url(/src/img/img-1.svg);
+}
+
+/* media query */
+
+@media (max-width: 768px) and (min-width: 300px) {
+  .login-page {
+      content: '';
+      display: block;
+      padding-bottom: 100%;
+      margin-top: 35px;
+      padding: 2rem;
+  }
+  .myImage {
+    width: 300px;
+  }
+  div#image-form {
+    padding: 30px 30px 0px;
+}
+div#form-login {
+  padding: 0px 30px 30px;
+}
+}
+@media (max-width: 768px) {
+.nav-f {
+  display:none;
+}
+}
